@@ -13,3 +13,6 @@ The committee asks you to forecast the hourly bus usages for next week for each 
 The committee says that they will use the last two weeks (starting from 2017-08-05 to 2017-08-19) as assessment (test) data, hence your code should report the error (in the criterion you chose for the task) for the last two weeks. You may use true values for the prediction of the last week of test data, then combine the error of the first and last week of the test separately.
 
 Keep in mind that the dataset has missing data, hence a suitable missing data interpolation would be useful.
+
+
+https://www.kaggle.com/berkantaslan/forecasting-bus-demand-in-banana-municipalities/edit
